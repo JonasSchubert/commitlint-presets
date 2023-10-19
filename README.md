@@ -22,10 +22,9 @@ Update your commitlint config, e.g. commitlint.config.js:
 ```js
 module.exports = {
   extends: [
-    'commitlint-presets'
+    './node_modules/commitlint-presets/index.js'
   ]
 };
-
 ```
 
 ## Support
