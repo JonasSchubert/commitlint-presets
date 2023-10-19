@@ -1,0 +1,39 @@
+{
+  "name": "commitlint-presets",
+  "version": "0.0.0",
+  "description": "Commitlint presets.",
+  "scripts": {
+    "prepare": "is-ci || husky install"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "commitlint-presets"
+  ],
+  "homepage": "https://github.com/JonasSchubert/commitlint-presets",
+  "bugs": {
+    "url": "https://github.com/JonasSchubert/commitlint-presets/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JonasSchubert/commitlint-presets.git"
+  },
+  "author": {
+    "name": "Jonas Schubert",
+    "email": "jonas.schubert.projects@web.de",
+    "url": "https://github.com/JonasSchubert"
+  },
+  "contributors": [],
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^17.8.0",
+    "@commitlint/config-conventional": "^17.8.0",
+    "husky": "^8.0.3",
+    "is-ci": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.18.0",
+    "npm": ">=9.8.1"
+  }
+}
