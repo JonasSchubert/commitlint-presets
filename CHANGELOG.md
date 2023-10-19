@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/JonasSchubert/commitlint-presets/compare/v1.0.1...v1.0.2) (2023-10-19)
+
+
+### Bug Fixes
+
+* **npm:** remove semantic release dependencies ([1d55a0e](https://github.com/JonasSchubert/commitlint-presets/commit/1d55a0e15c2a0e9744abd159f8eb4c59422b3770))
+
 ## [1.0.1](https://github.com/JonasSchubert/commitlint-presets/compare/v1.0.0...v1.0.1) (2023-10-19)
 
 
