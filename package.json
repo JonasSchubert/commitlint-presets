@@ -1,6 +1,6 @@
 {
   "name": "commitlint-presets",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Commitlint presets.",
   "scripts": {
     "prepare": "is-ci || husky install"
@@ -35,5 +35,15 @@
   "engines": {
     "node": ">=18.18.0",
     "npm": ">=9.8.1"
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^11.0.0",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^9.2.1",
+    "@semantic-release/npm": "^11.0.0",
+    "@semantic-release/release-notes-generator": "^12.0.0",
+    "semantic-release": "^22.0.5",
+    "semantic-release-presets": "^2.0.4"
   }
 }
