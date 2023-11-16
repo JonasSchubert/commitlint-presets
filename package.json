@@ -1,6 +1,6 @@
 {
   "name": "commitlint-presets",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Commitlint presets.",
   "scripts": {
     "prepare": "is-ci || husky install"

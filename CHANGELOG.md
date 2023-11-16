@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/JonasSchubert/commitlint-presets/compare/v1.0.2...v1.0.3) (2023-11-16)
+
+
+### Bug Fixes
+
+* **engines:** allow additional versions ([8f87b45](https://github.com/JonasSchubert/commitlint-presets/commit/8f87b45934829a9833839868aae7ba2d5b6d2075))
+
 ## [1.0.2](https://github.com/JonasSchubert/commitlint-presets/compare/v1.0.1...v1.0.2) (2023-10-19)
 
 
