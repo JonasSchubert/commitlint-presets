@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/JonasSchubert/commitlint-presets/compare/v1.0.3...v1.0.4) (2024-02-01)
+
+
+### Bug Fixes
+
+* **rules:** set length of scope-min-length to 2 ([8e93492](https://github.com/JonasSchubert/commitlint-presets/commit/8e93492d6463c4f37548e8c15abd46ff2bc2ae87))
+
 ## [1.0.3](https://github.com/JonasSchubert/commitlint-presets/compare/v1.0.2...v1.0.3) (2023-11-16)
 
 
