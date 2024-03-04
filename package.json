@@ -27,7 +27,7 @@
   "contributors": [],
   "license": "MIT",
   "devDependencies": {
-    "@commitlint/cli": "^18.6.0",
+    "@commitlint/cli": "^19.0.3",
     "@commitlint/config-conventional": "^18.6.0",
     "commitlint-presets": "^1.0.4",
     "husky": "^9.0.10",
