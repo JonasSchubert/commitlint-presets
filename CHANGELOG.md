@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/JonasSchubert/commitlint-presets/compare/v1.0.4...v1.0.5) (2024-03-17)
+
+
+### Bug Fixes
+
+* **dependencies:** bump commitlint and husky ([0aa26e6](https://github.com/JonasSchubert/commitlint-presets/commit/0aa26e6d05555c71f05b66ad503f7a5b48db7df1))
+
 ## [1.0.4](https://github.com/JonasSchubert/commitlint-presets/compare/v1.0.3...v1.0.4) (2024-02-01)
 
 
