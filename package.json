@@ -27,11 +27,11 @@
   "contributors": [],
   "license": "MIT",
   "devDependencies": {
-    "@commitlint/cli": "^19.2.0",
-    "@commitlint/config-conventional": "^19.1.0",
-    "commitlint-presets": "^1.0.4",
-    "husky": "^9.0.11",
-    "is-ci": "^3.0.1"
+    "@commitlint/cli": "^19.6.0",
+    "@commitlint/config-conventional": "^19.6.0",
+    "commitlint-presets": "^1.0.5",
+    "husky": "^9.1.7",
+    "is-ci": "^4.1.0"
   },
   "engines": {
     "node": ">=18",
