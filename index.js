@@ -1,12 +1,19 @@
+const SEVERITY = {
+  Warning: 1,
+  Error: 2,
+};
+
 module.exports = {
   extends: [
     '@commitlint/config-conventional'
   ],
   rules: {
-    'scope-case': [2, 'always', 'lower-case'],
-    'scope-empty': [2, 'never'],
-    'scope-min-length': [2, 'always', 2],
-    'subject-case': [1, 'always', 'lower-case'],
-    'subject-min-length': [2, 'always', 8]
+    'body-leading-blank': [SEVERITY.Error, 'always'],
+    'footer-leading-blank': [SEVERITY.Error, 'always'],
+    'scope-case': [SEVERITY.Error, 'always', 'lower-case'],
+    'scope-empty': [SEVERITY.Error, 'never'],
+    'scope-min-length': [SEVERITY.Error, 'always', 2],
+    'subject-case': [SEVERITY.Warning, 'always', 'lower-case'],
+    'subject-min-length': [SEVERITY.Error, 'always', 8]
   }
 };
