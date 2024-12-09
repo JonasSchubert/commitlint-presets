@@ -1,3 +1,22 @@
+# [2.0.0](https://github.com/JonasSchubert/commitlint-presets/compare/v1.0.5...v2.0.0) (2024-12-09)
+
+
+### chore
+
+* **engines:** require node 22 and up and npm 10 and up ([8df5ced](https://github.com/JonasSchubert/commitlint-presets/commit/8df5ced3461b9ba84f3ed9c1d2798369cd021226))
+
+
+### Features
+
+* **plugins:** add a rule to detect commits which would skip the ci ([d4d9a1d](https://github.com/JonasSchubert/commitlint-presets/commit/d4d9a1d0f13a127a29022c2d2f02713e116c8f00))
+* **rules:** add error for body- and footer-leading-blank ([65b14e2](https://github.com/JonasSchubert/commitlint-presets/commit/65b14e2677b3a900449101ef710d323bdb565e69))
+
+
+### BREAKING CHANGES
+
+* **rules:** error is being thrown for rule body- and footer-leading-blank
+* **engines:** require at least node 22 and npm 10
+
 ## [1.0.5](https://github.com/JonasSchubert/commitlint-presets/compare/v1.0.4...v1.0.5) (2024-03-17)
 
 
