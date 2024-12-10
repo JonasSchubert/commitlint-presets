@@ -12,7 +12,7 @@ export default {
       rules: {
         'skip-ci': ({ subject }) => {
           return [
-            subject.includes('[skip ci]'),
+            !subject.includes('[skip ci]'),
             'Your pipeline is not being triggered with this commit. Are you sure?',
           ];
         }
