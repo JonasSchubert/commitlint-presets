@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/JonasSchubert/commitlint-presets/compare/v2.0.0...v2.0.1) (2024-12-10)
+
+
+### Bug Fixes
+
+* **rules:** fix logic of skip ci ([943cd45](https://github.com/JonasSchubert/commitlint-presets/commit/943cd45c4d8862824ddc35e533953da81d237748))
+
 # [2.0.0](https://github.com/JonasSchubert/commitlint-presets/compare/v1.0.5...v2.0.0) (2024-12-09)
 
 
