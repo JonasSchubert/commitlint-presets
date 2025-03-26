@@ -15,6 +15,18 @@ export default {
             !subject.includes('[skip ci]'),
             'Your pipeline is not being triggered with this commit. Are you sure?',
           ];
+        },
+        'skip-quality': ({ subject }) => {
+          return [
+            !subject.includes('[skip quality]'),
+            'Your pipeline might skip quality steps. Are you sure?',
+          ];
+        },
+        'skip-security': ({ subject }) => {
+          return [
+            !subject.includes('[skip security]'),
+            'Your pipeline might skip security steps. Are you sure?',
+          ];
         }
       }
     }
@@ -28,6 +40,8 @@ export default {
     'subject-case': [SEVERITY.Warning, 'always', 'lower-case'],
     'subject-min-length': [SEVERITY.Error, 'always', 8],
 
-    'skip-ci': [SEVERITY.Warning, 'always']
+    'skip-ci': [SEVERITY.Warning, 'always'],
+    'skip-quality': [SEVERITY.Warning, 'always'],
+    'skip-security': [SEVERITY.Warning, 'always']
   }
 };
