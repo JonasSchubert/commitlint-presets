@@ -1,3 +1,16 @@
+# [2.1.0](https://github.com/JonasSchubert/commitlint-presets/compare/v2.0.1...v2.1.0) (2025-03-26)
+
+
+### Bug Fixes
+
+* **dependencies:** use local file ([aaeb563](https://github.com/JonasSchubert/commitlint-presets/commit/aaeb563860712091b49e44a5a437ac51e4f4fd03))
+* **npm:** bump dependency and engine versions ([56d365f](https://github.com/JonasSchubert/commitlint-presets/commit/56d365f848706f48949a2cccad1fd79c34ec23b0))
+
+
+### Features
+
+* **rules:** add checks for skip-quality and skip-security ([2ce174f](https://github.com/JonasSchubert/commitlint-presets/commit/2ce174f707ca388ce0ed14c441cb1a4fac42594f))
+
 ## [2.0.1](https://github.com/JonasSchubert/commitlint-presets/compare/v2.0.0...v2.0.1) (2024-12-10)
 
 
