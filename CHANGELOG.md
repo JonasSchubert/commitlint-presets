@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/JonasSchubert/commitlint-presets/compare/v2.1.0...v2.1.1) (2025-08-19)
+
+
+### Bug Fixes
+
+* **deps:** :arrow_up: bump dev dependencies, allow additional node engine ([260e4a6](https://github.com/JonasSchubert/commitlint-presets/commit/260e4a6b76449cffe4a0a349c7a93052b4ae9837))
+
 # [2.1.0](https://github.com/JonasSchubert/commitlint-presets/compare/v2.0.1...v2.1.0) (2025-03-26)
 
 
