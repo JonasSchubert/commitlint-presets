@@ -16,6 +16,12 @@ export default {
             'Your pipeline is not being triggered with this commit. Are you sure?',
           ];
         },
+        'skip-deployment': ({ subject }) => {
+          return [
+            !subject.includes('[skip deployment]'),
+            'Deployment will be skipped. Are you sure?',
+          ];
+        },
         'skip-quality': ({ subject }) => {
           return [
             !subject.includes('[skip quality]'),
