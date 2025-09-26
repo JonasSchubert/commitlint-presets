@@ -1,3 +1,15 @@
+# [2.2.0](https://github.com/JonasSchubert/commitlint-presets/compare/v2.1.1...v2.2.0) (2025-09-26)
+
+
+### Bug Fixes
+
+* **deps:** :arrow_up: bump @commitlint/* ([8d4e082](https://github.com/JonasSchubert/commitlint-presets/commit/8d4e0820a98a15178eb706c551e4b97e36062d7a))
+
+
+### Features
+
+* **rules:** :sparkles: provide warning if deployment is being skipped ([c50a6d3](https://github.com/JonasSchubert/commitlint-presets/commit/c50a6d3275b29c6b8375093f88d1d8d3767bcf04))
+
 ## [2.1.1](https://github.com/JonasSchubert/commitlint-presets/compare/v2.1.0...v2.1.1) (2025-08-19)
 
 
