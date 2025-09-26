@@ -27,8 +27,8 @@
   "contributors": [],
   "license": "MIT",
   "devDependencies": {
-    "@commitlint/cli": "^19.8.1",
-    "@commitlint/config-conventional": "^19.8.1",
+    "@commitlint/cli": "^19.8.1 || ^20.0.0",
+    "@commitlint/config-conventional": "^19.8.1 || ^20.0.0",
     "commitlint-presets": "file:./index.js",
     "husky": "^9.1.7",
     "is-ci": "^4.1.0"
