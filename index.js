@@ -3,6 +3,9 @@ const SEVERITY = {
   Error: 2,
 };
 
+/**
+ * @type {import('@commitlint/types').UserConfig}
+ */
 export default {
   extends: [
     '@commitlint/config-conventional'
