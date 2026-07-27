@@ -50,6 +50,7 @@ export default {
     'type-case': [SEVERITY.Error, 'always', 'lower-case'],
 
     'skip-ci': [SEVERITY.Warning, 'always'],
+    'skip-deployment': [SEVERITY.Warning, 'always'],
     'skip-quality': [SEVERITY.Warning, 'always'],
     'skip-security': [SEVERITY.Warning, 'always']
   }
