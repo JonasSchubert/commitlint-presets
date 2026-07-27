@@ -47,6 +47,7 @@ export default {
     'scope-min-length': [SEVERITY.Error, 'always', 2],
     'subject-case': [SEVERITY.Warning, 'always', 'lower-case'],
     'subject-min-length': [SEVERITY.Error, 'always', 8],
+    'type-case': [SEVERITY.Error, 'always', 'lower-case'],
 
     'skip-ci': [SEVERITY.Warning, 'always'],
     'skip-quality': [SEVERITY.Warning, 'always'],
