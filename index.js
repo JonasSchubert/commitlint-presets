@@ -1,4 +1,5 @@
 const SEVERITY = {
+  Null: 0,
   Warning: 1,
   Error: 2,
 };
