@@ -1,3 +1,29 @@
+# [3.0.0](https://github.com/JonasSchubert/commitlint-presets/compare/v2.2.0...v3.0.0) (2026-07-27)
+
+
+### Bug Fixes
+
+* **deps:** :arrow_up: bump versions ([899881a](https://github.com/JonasSchubert/commitlint-presets/commit/899881a1fa755811b23174765970dce628e0feb7))
+
+
+### chore
+
+* **deps:** :boom: set min node version to 24.18.0 and npm to 11.18.0 ([a46591e](https://github.com/JonasSchubert/commitlint-presets/commit/a46591eae293a766a262a381add69fdc1195706a))
+* **rules:** :sparkles: activate skip-deployment ([6700cf4](https://github.com/JonasSchubert/commitlint-presets/commit/6700cf4697a0c790429994018943e977eb41591d))
+* **rules:** :sparkles: add type-case ([7d91dfe](https://github.com/JonasSchubert/commitlint-presets/commit/7d91dfe39718e1e92cca8107feffe0bfa81684cb))
+
+
+### Features
+
+* **types:** :sparkles: add type annotation ([96ba4c8](https://github.com/JonasSchubert/commitlint-presets/commit/96ba4c8b63596a3a4a395899117dfb0f54cb6c65))
+
+
+### BREAKING CHANGES
+
+* **rules:** activate rule skip-deployment
+* **rules:** add rule type-case
+* **deps:** require min node 24.18.0 and npm 11.18.0
+
 # [2.2.0](https://github.com/JonasSchubert/commitlint-presets/compare/v2.1.1...v2.2.0) (2025-09-26)
 
 
