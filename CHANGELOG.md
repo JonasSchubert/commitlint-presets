@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/JonasSchubert/commitlint-presets/compare/v3.0.0...v3.0.1) (2026-11-10)
+
+
+### Bug Fixes
+
+* **engines:** :fire: remove restrictions ([92f72cb](https://github.com/JonasSchubert/commitlint-presets/commit/92f72cbce301ad338e7e231b734ef3a905d63482))
+
 # [3.0.0](https://github.com/JonasSchubert/commitlint-presets/compare/v2.2.0...v3.0.0) (2026-07-27)
 
 
